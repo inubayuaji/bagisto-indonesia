@@ -12,4 +12,7 @@ Untuk lebih lanjut dapat mengikuti langkah - langkah disitus [ini](https://bagis
 
 ## Kontak
 Nama: Inu Bayu Aji
+
 Email: inu.develop@gmail.com
+
+Website: inubayuaji.medium.com
